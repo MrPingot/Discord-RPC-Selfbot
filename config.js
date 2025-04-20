@@ -9,7 +9,7 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1363572623669198999",
 
         "name": "", // title
         "details": "", // first row below title
@@ -46,7 +46,7 @@ module.exports = {
         "details": "", // title
         "state": "", // row below title
 
-        "largeImageKey": "", // https://github.com/mewzax/Discord-RPC-Selfbot/wiki/Spotify-API
+        "largeImageKey": "spotify:https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb79fa9979d0ffcceb17717a5d", // https://github.com/mewzax/Discord-RPC-Selfbot/wiki/Spotify-API
         "largeImageText": "", // will also be second row below title
         
         "smallImageKey": "",
